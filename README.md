@@ -6,9 +6,6 @@
 <img src= "https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 </p>
 
-<p align="center">
-<img src= "https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif">
-</p>
 
 ## Description
 This repository contains programs written for ALX high-level programming section.
