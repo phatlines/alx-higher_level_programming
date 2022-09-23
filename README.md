@@ -22,4 +22,4 @@ This repository contains programs written for ALX high-level programming section
 
 
 ## Author
-* [Github Repo](https://github.com/phatlines/alx-higher_level_programming): ```hhttps://github.com/phatlines/alx-higher_level_programming```
+* [Github Repo](https://github.com/phatlines/alx-higher_level_programming): ```https://github.com/phatlines/alx-higher_level_programming```
