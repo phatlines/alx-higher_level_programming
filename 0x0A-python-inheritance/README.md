@@ -2,7 +2,7 @@
 
 
 
-## Tasks: page_with_curl:
+## Tasks :page_with_curl:
 
 * **0. Lookup**
   * [0-lookup.py](./0-lookup.py): Python function that returns a list of available attributes
